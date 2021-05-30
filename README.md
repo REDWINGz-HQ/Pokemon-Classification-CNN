@@ -1,2 +1,2 @@
 # Pokemon-Classification-CNN
-Pokemon Classification using CNN
+Compare between Pokemon with wings and pokemon without wings
